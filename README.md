@@ -112,5 +112,5 @@ Build and evaluate regression models to predict the `Weekly_Sales` of Walmart st
 
 ## 🤝 Connect with Me
 
-If you liked this project, feel free to ⭐ the repo and connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)!
+If you liked this project, feel free to ⭐ the repo and connect with me on [LinkedIn](https://www.linkedin.com/in/hema-navya-yarra-3270a4270)!
 
